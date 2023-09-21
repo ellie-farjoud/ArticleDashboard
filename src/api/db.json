@@ -22,35 +22,5 @@
       "password": "$2a$10$hEf0gGgVoD8x3z5/CVV1XutNZVGT9sPRI/NNnkhrMvN0aO8aaYM3q",
       "id": 1
     },
-    {
-      "email": "ellie.farjoud@gmail.com",
-      "password": "$2a$10$D8nSLuMW.ms6VPZmUBEiWehp410oxkYzJQ7dZzPheqCl178vXscVC",
-      "id": 2
-    },
-    {
-      "email": "ellie.farjoudd@gmail.com",
-      "password": "$2a$10$NpHC6UIWSG3hc1VudCPGruiQ1hfrBLOk4xlp7C.8BDmM9rbrLQPoO",
-      "id": 3
-    },
-    {
-      "email": "ellie.farjouddd@gmail.com",
-      "password": "$2a$10$enRZX5O1oM.MFouZPy9sb.3Y6KkFUmmhMACvmKYGqqL2MzzfiFWlS",
-      "id": 4
-    },
-    {
-      "email": "ellie.farjoueeed@gmail.com",
-      "password": "$2a$10$CEZh/jCaLiNswYW5HRjbBOTVTecgQWRHtMeB0W5QYrqhyiImSuxYi",
-      "id": 5
-    },
-    {
-      "email": "ellie.farjoude@gmail.com",
-      "password": "$2a$10$oKLpok4R4tgL7FOabmkUrOnTLm7FFChdLoBSOf4p/EhOJJZYLaiAO",
-      "id": 6
-    },
-    {
-      "email": "ellie.farjouddddd@gmail.com",
-      "password": "$2a$10$FXyCmTRL9p51DCqeOYCW2uqyncsscsZ7vQTPUJMDAgtk5KV7yV8eC",
-      "id": 7
-    }
   ]
 }
