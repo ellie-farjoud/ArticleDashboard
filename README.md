@@ -18,5 +18,6 @@ You may also see any lint errors in the console.
 ### `npm run server`
 
 Launches the server for mock data\
+Open [http://localhost:3000](http://localhost:5000) to view it in your browser.
 
 ### `npm run build`
