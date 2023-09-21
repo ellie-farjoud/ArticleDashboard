@@ -6,21 +6,22 @@
       "author": "Author 9",
       "created": "2015-05-22T09:56:29.000Z",
       "tag": "tag 4"
+    },
+    {
+      "title": "Article 2",
+      "content": "comment",
+      "tag": "tag 2",
+      "author": "Author 2",
+      "created": "2023-09-21T20:49:45.503Z",
+      "id": 9
     }
   ],
-  "tags": [
-    "tag 1",
-    "tag 2",
-    "tag 3",
-    "tag 4",
-    "tag 5",
-    "tag 6"
-  ],
+  "tags": ["tag 1", "tag 2", "tag 3", "tag 4", "tag 5", "tag 6"],
   "users": [
     {
-      "email": "olivier@mail.com",
-      "password": "$2a$10$hEf0gGgVoD8x3z5/CVV1XutNZVGT9sPRI/NNnkhrMvN0aO8aaYM3q",
-      "id": 1
-    },
+      "email": "ellie.farjoud@gmail.com",
+      "password": "$2a$10$1DPM5G7tDyrwATC99qeoPu7qhc9imLBp2c8MSZHGuVnPCuDz30ozu",
+      "id": 2
+    }
   ]
 }
